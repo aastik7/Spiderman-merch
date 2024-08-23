@@ -1,7 +1,8 @@
 # 🕷️ Spidey Slider
 
 A sleek, interactive Spider-Man themed web slider showcasing modern front-end development techniques.
-[![View Live Site](https://img.shields.io/badge/View%20Live%20Site-GitHub%20Pages-blue?style=for-the-badge)](https://aastik7.github.io/Spiderman-merch/)
+
+[![View Live Site](https://img.shields.io/badge/View%20Live%20Pages-blue?style=for-the-badge)](https://aastik7.github.io/Spiderman-merch/)
 
 ![ezgif-5-ac4fc4e40a](https://github.com/user-attachments/assets/8012168f-a331-4e86-8e8f-6366f9be6497)
 
