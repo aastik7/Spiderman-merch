@@ -2,8 +2,7 @@
 
 A sleek, interactive Spider-Man themed web slider showcasing modern front-end development techniques.
 
-![Spider-Man Slider Demo](https://github.com/user-attachments/assets/65a0ee10-80be-43dd-9d7f-d98b9a3cc085)
-)
+![ezgif-5-ac4fc4e40a](https://github.com/user-attachments/assets/8012168f-a331-4e86-8e8f-6366f9be6497)
 
 
 ## 🚀 Features
